@@ -25,4 +25,3 @@ Complementarmente, um aplicativo mobile foi desenvolvido para oferecer aos usuá
 
 <h2 align="left">Equipe</h2>
 <a href="https://github.com/VitorRobertoFogassaPereira" target="_blank">🔗Vitor Roberto Fogassa Pereira</a>
-###
