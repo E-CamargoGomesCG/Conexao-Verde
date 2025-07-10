@@ -34,6 +34,6 @@ Complementarmente, um aplicativo mobile foi desenvolvido para oferecer aos usuá
 </div>
 
 <h2 align="left">Equipe</h2>
-<a href="https://github.com/Guispf950" target="_blank">🔗Vitor Roberto Fogassa Pereira</a>
+<a href="https://github.com/Guispf950](https://github.com/VitorRobertoFogassaPereira" target="_blank">🔗Vitor Roberto Fogassa Pereira</a>
 
 ###
