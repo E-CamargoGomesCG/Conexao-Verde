@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left"> projeto GreenConnect propõe o desenvolvimento de um sistema inteligente de monitoramento ambiental e irrigação automática, com base em tecnologias de Internet das Coisas (IoT) e energia solar. A solução é orientada para a sustentabilidade e autonomia energética, visando otimizar o cuidado de áreas verdes por meio da automação do processo de irrigação conforme os níveis de umidade do solo.
+<p align="left">O projeto Sistema de Conexão Verde propõe o desenvolvimento de um sistema inteligente de monitoramento ambiental e irrigação automática, com base em tecnologias de Internet das Coisas (IoT) e energia solar. A solução é orientada para a sustentabilidade e autonomia energética, visando otimizar o cuidado de áreas verdes por meio da automação do processo de irrigação conforme os níveis de umidade do solo.
 
 O sistema realiza o monitoramento contínuo de umidade do ar, temperatura e umidade do solo, utilizando sensores integrados a um microcontrolador alimentado por energia fotovoltaica, garantindo operação off-grid e minimizando impactos ambientais. As decisões de irrigação são tomadas automaticamente com base nos dados captados, promovendo uso racional da água.
 
@@ -12,12 +12,6 @@ Complementarmente, um aplicativo mobile foi desenvolvido para oferecer aos usuá
 ###
 
 <h2 align="left">Em Funcionamento</h2>
-
-
-
-https://github.com/user-attachments/assets/3dab03fb-2e72-47b4-a81c-bd00b3dba2d7
-
-
 
 ###
 
@@ -40,8 +34,6 @@ https://github.com/user-attachments/assets/3dab03fb-2e72-47b4-a81c-bd00b3dba2d7
 </div>
 
 <h2 align="left">Equipe</h2>
-<a href="https://github.com/Guispf950" target="_blank">🔗Guilherme da Silva Pereira</a>
-<a href="https://github.com/gmonteiro08" target="_blank">🔗Guilherme Monteiro da Silva</a>
-
+<a href="https://github.com/Guispf950" target="_blank">🔗Vitor Roberto Fogassa Pereira</a>
 
 ###
