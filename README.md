@@ -19,19 +19,9 @@ Complementarmente, um aplicativo mobile foi desenvolvido para oferecer aos usuá
 
 ###
 
-<p align="left">Programação: Python 3.9.6. , C.<br>Bibliotecas e FrameWorks: TensorFlow 2.13.0 , OpenCV.<br>Hardware: Arduino, Motores e Sensores.<br>Ferramentas de Projeto: Git, Trello, Tinkercad, Arduino IDE, Ultimaker Cura.</p>
+<p align="left">Programação: Kotlin e C. <br>Hardware: NodeMCu 8266, Motores e Sensores.<br>Ferramentas de Projeto: Git, Trello, Tinkercad, Arduino IDE, Android Studio, FireBase.</p>
 
 ###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
-</div>
 
 <h2 align="left">Equipe</h2>
 <a href="https://github.com/VitorRobertoFogassaPereira" target="_blank">🔗Vitor Roberto Fogassa Pereira</a>
